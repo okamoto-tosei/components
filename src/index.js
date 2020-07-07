@@ -11,6 +11,7 @@ const App = () => {
                 timeAgo='Today at 4:45PM' 
                 content='Nice blog post' 
                 avatar={faker.image.avatar()}
+                
             />
             <CommentDetail 
                 author='Alex' 
